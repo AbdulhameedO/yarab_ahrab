@@ -80,7 +80,6 @@ int main()
 
     vector<vector<vector<unsigned long long>>> map(a5ry+max_x, vector<vector< unsigned long long >>(a5ry+max_y));
 
-    
     cout << emshy(x, y, ta7arokat, a5ry, maxmoves, 0, map).first;
 
     return 0;
